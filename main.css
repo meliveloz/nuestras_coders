@@ -1,0 +1,151 @@
+.head{
+	
+	position :relative;
+	width: 40em;
+
+}
+
+hr{
+	width: 65%;
+	margin-left: 3em;
+	position: relative;
+
+}
+
+.contenedor{
+	
+	width: 43em;
+	height: 35em;
+	margin-top: 3em;
+	margin-left: 2em;
+	}
+
+
+h1{
+	font-family: 'Rock Salt', cursive;
+	font-size: xx-large;
+	margin-left: 3em;
+	position: relative;
+}	
+
+
+.img1{
+	width:10em;
+	height: 15em;
+	margin-left: 3em;
+	border-radius: 1.5em;
+	opacity: 0.7;
+	filter: alpha(opacity=75);
+	position: relative;
+
+}
+.arya{
+	position: absolute;
+	top: 28em;
+	left: 13em;
+	display: inline-block;
+}
+
+.img2{
+	width: 10em;
+	height: 15em;
+	margin-left: 3em;
+	border-radius: 1.5em;
+	opacity: 0.7;
+	filter: alpha(opacity=75);
+	position: relative;
+
+}
+
+.sansa{
+	
+	position: absolute;
+	top: 28em;
+	left: 29em;
+	display: inline-block;
+
+}
+.img3{
+	width: 10em;
+	height: 15em;
+	margin-left: 3em;
+	border-radius: 1.5em;
+	opacity: 0.7;
+	filter: alpha(opacity=75);
+	position: relative;
+
+}
+.lyanna{
+	
+	position: absolute;
+	top: 28em;
+	left: 42em;
+	display: inline-block;
+
+}
+
+.img4{
+	width: 10em;
+	height: 15em;
+	margin-left: 3em;
+	margin-top: 3em;
+	border-radius: 1.5em;
+	opacity: 0.7;
+	filter: alpha(opacity=75);
+	position: relative;
+
+}
+
+.daenerys{
+	
+	position: absolute;
+	top: 50em;
+	left: 8em;
+	display: inline-block;
+}
+
+.img5{
+width: 10em;
+height: 15em;
+margin-left: 3em;
+margin-top: 3em;
+border-radius: 1.5em;
+opacity: 0.7;
+filter: alpha(opacity=75);
+position: relative;
+}
+.brienne{
+	
+	position: absolute;
+	top: 50em;
+	left: 27.5em;
+	display: inline-block;
+}
+
+.img6{
+	width: 10em;
+	height: 15em;
+	margin-left: 3em;
+	margin-top: 3em;
+	border-radius: 1.5em;
+	opacity: 0.7;
+	filter: alpha(opacity=75);
+	position: relative;
+
+}
+.missandei{
+	
+	position: absolute;
+	top: 50em;
+	left: 46.4em;
+	display: inline-block;
+
+}
+p{
+	color:white;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	background: black;
+	font-family: 'Cinzel', serif;
+	font-size:small;
+}
